@@ -16,7 +16,8 @@ Realicé la solución de este desafio con mis conocimientos actuales en desarrol
 
 ### Screenshot
 
-![captura de pantalla de la solución](./screenshot/Screenshot_Frontend%20Mentor%20_QR_code_component.png)
+[desktop](./screenshot/QR_code_component_desktop.png)
+[mobile](./screenshot/QR_code_component_mobile.jpg)
 
 ## Mi proceso
 

@@ -7,8 +7,8 @@ Esta es una solución al [desafío del componente de código QR en Frontend Ment
 - [Descripción general](#Descripción-general)
   - [Screenshot](#Screenshot)
 - [Mi proceso](#Mi-proceso)
-  - [Built with](#Construido-con)
-  - [What I learned](#Que-aprendí)
+  - [Construido](#Construido-con)
+  - [Que aprendí](#Que-aprendí)
 - [Autor](#Autor)
 
 ## Descripción general

@@ -16,8 +16,8 @@ Realicé la solución de este desafio con mis conocimientos actuales en desarrol
 
 ### Screenshot
 
-[desktop](./screenshot/QR_code_component_desktop.png)
-[mobile](./screenshot/QR_code_component_mobile.jpg)
+![desktop](./screenshot/QR_code_component_desktop.png)
+![mobile](./screenshot/QR_code_component_mobile.jpg)
 
 ## Mi proceso
 
